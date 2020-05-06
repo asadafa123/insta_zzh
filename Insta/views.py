@@ -132,4 +132,3 @@ def addComment(request):
         'post_pk': post_pk,
         'commenter_info': commenter_info
     }
-© 2020 GitHub, Inc.
