@@ -1,1 +1,1 @@
-web: gunicon instazzh.wsgi --log-file -
+web: gunicorn instazzh.wsgi --log-file -
